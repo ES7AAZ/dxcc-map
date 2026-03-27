@@ -1,0 +1,3062 @@
+[
+  {
+    "Prefix": "1A",
+    "Entity": "Sovereign Military Order of Malta",
+    "Continent": "EU",
+    "ITU": "28",
+    "CQ": "15",
+    "Lat": 41.902437,
+    "Lon": 12.493342
+  },
+  {
+    "Prefix": "1S",
+    "Entity": "Spratly Island",
+    "Continent": "AS",
+    "ITU": "50",
+    "CQ": "26",
+    "Lat": 8.6451072,
+    "Lon": 111.9203207
+  },
+  {
+    "Prefix": "3A",
+    "Entity": "Monaco",
+    "Continent": "EU",
+    "ITU": "27",
+    "CQ": "14",
+    "Lat": 43.7323492,
+    "Lon": 7.4276832
+  },
+  {
+    "Prefix": "3B6,3B7",
+    "Entity": "Agalega & Saint Brandon Islands",
+    "Continent": "AF",
+    "ITU": "53",
+    "CQ": "39",
+    "Lat": -10.438745,
+    "Lon": 56.651861
+  },
+  {
+    "Prefix": "3B8",
+    "Entity": "Mauritius",
+    "Continent": "AF",
+    "ITU": "53",
+    "CQ": "39",
+    "Lat": -20.2759451,
+    "Lon": 57.5703566
+  },
+  {
+    "Prefix": "3B9",
+    "Entity": "Rodrigues Island",
+    "Continent": "AF",
+    "ITU": "53",
+    "CQ": "39",
+    "Lat": -19.7195149,
+    "Lon": 63.4175938
+  },
+  {
+    "Prefix": "3C",
+    "Entity": "Equatorial Guinea",
+    "Continent": "AF",
+    "ITU": "47",
+    "CQ": "36",
+    "Lat": 1.613172,
+    "Lon": 10.5170357
+  },
+  {
+    "Prefix": "3C0",
+    "Entity": "Annobon Island",
+    "Continent": "AF",
+    "ITU": "52",
+    "CQ": "36",
+    "Lat": -1.434384,
+    "Lon": 5.6374236
+  },
+  {
+    "Prefix": "3D2",
+    "Entity": "Fiji",
+    "Continent": "OC",
+    "ITU": "56",
+    "CQ": "32",
+    "Lat": -18.1239696,
+    "Lon": 179.0122737
+  },
+  {
+    "Prefix": "3D2",
+    "Entity": "Conway Reef",
+    "Continent": "OC",
+    "ITU": "56",
+    "CQ": "32",
+    "Lat": -21.7347745,
+    "Lon": 174.6328079
+  },
+  {
+    "Prefix": "3D2",
+    "Entity": "Rotuma Island",
+    "Continent": "OC",
+    "ITU": "56",
+    "CQ": "32",
+    "Lat": -12.5020407,
+    "Lon": 177.0935756
+  },
+  {
+    "Prefix": "3DA",
+    "Entity": "Kingdom of Eswatini",
+    "Continent": "AF",
+    "ITU": "57",
+    "CQ": "38",
+    "Lat": -26.5624806,
+    "Lon": 31.3991317
+  },
+  {
+    "Prefix": "3V",
+    "Entity": "Tunisia",
+    "Continent": "AF",
+    "ITU": "37",
+    "CQ": "33",
+    "Lat": 33.8439408,
+    "Lon": 9.400138
+  },
+  {
+    "Prefix": "3W,XV",
+    "Entity": "Vietnam",
+    "Continent": "AS",
+    "ITU": "49",
+    "CQ": "26",
+    "Lat": 15.9266657,
+    "Lon": 107.9650855
+  },
+  {
+    "Prefix": "3X",
+    "Entity": "Guinea",
+    "Continent": "AF",
+    "ITU": "46",
+    "CQ": "35",
+    "Lat": 10.7226226,
+    "Lon": -10.7083587
+  },
+  {
+    "Prefix": "3Y",
+    "Entity": "Bouvet Island",
+    "Continent": "AF",
+    "ITU": "67",
+    "CQ": "38",
+    "Lat": -54.4215,
+    "Lon": 3.3574416
+  },
+  {
+    "Prefix": "3Y",
+    "Entity": "Peter I Island",
+    "Continent": "AN",
+    "ITU": "72",
+    "CQ": "12",
+    "Lat": -68.8423607,
+    "Lon": -90.5982338
+  },
+  {
+    "Prefix": "4J,4K",
+    "Entity": "Azerbaijan",
+    "Continent": "AS",
+    "ITU": "29",
+    "CQ": "21",
+    "Lat": 40.3936294,
+    "Lon": 47.7872508
+  },
+  {
+    "Prefix": "4L",
+    "Entity": "Georgia",
+    "Continent": "AS",
+    "ITU": "29",
+    "CQ": "21",
+    "Lat": 42.15381,
+    "Lon": 43.28613
+  },
+  {
+    "Prefix": "4O",
+    "Entity": "Montenegro",
+    "Continent": "EU",
+    "ITU": "28",
+    "CQ": "15",
+    "Lat": 42.7755624,
+    "Lon": 19.2022423
+  },
+  {
+    "Prefix": "4P-4S",
+    "Entity": "Sri Lanka",
+    "Continent": "AS",
+    "ITU": "41",
+    "CQ": "22",
+    "Lat": 7.5554942,
+    "Lon": 80.7137847
+  },
+  {
+    "Prefix": "4U_ITU",
+    "Entity": "ITU HQ",
+    "Continent": "EU",
+    "ITU": "28",
+    "CQ": "14",
+    "Lat": 46.204026,
+    "Lon": 6.138389
+  },
+  {
+    "Prefix": "4U_UN",
+    "Entity": "UN HQ",
+    "Continent": "NA",
+    "ITU": "08",
+    "CQ": "05",
+    "Lat": 40.722525,
+    "Lon": -74.042657
+  },
+  {
+    "Prefix": "4W",
+    "Entity": "Timor-Leste",
+    "Continent": "OC",
+    "ITU": "54",
+    "CQ": "28",
+    "Lat": -8.7443169,
+    "Lon": 126.063482
+  },
+  {
+    "Prefix": "4X,4Z",
+    "Entity": "Israel",
+    "Continent": "AS",
+    "ITU": "39",
+    "CQ": "20",
+    "Lat": 30.8124247,
+    "Lon": 34.8594762
+  },
+  {
+    "Prefix": "5A",
+    "Entity": "Libya",
+    "Continent": "AF",
+    "ITU": "38",
+    "CQ": "34",
+    "Lat": 26.8234472,
+    "Lon": 18.1236723
+  },
+  {
+    "Prefix": "5B,C4,P3",
+    "Entity": "Cyprus",
+    "Continent": "AS",
+    "ITU": "39",
+    "CQ": "20",
+    "Lat": 34.9174159,
+    "Lon": 32.8899027
+  },
+  {
+    "Prefix": "5H,5I",
+    "Entity": "Tanzania",
+    "Continent": "AF",
+    "ITU": "53",
+    "CQ": "37",
+    "Lat": -6.5247123,
+    "Lon": 35.7878438
+  },
+  {
+    "Prefix": "5N",
+    "Entity": "Nigeria",
+    "Continent": "AF",
+    "ITU": "46",
+    "CQ": "35",
+    "Lat": 9.6000359,
+    "Lon": 7.9999721
+  },
+  {
+    "Prefix": "5R",
+    "Entity": "Madagascar",
+    "Continent": "AF",
+    "ITU": "53",
+    "CQ": "39",
+    "Lat": -18.9249604,
+    "Lon": 46.4416422
+  },
+  {
+    "Prefix": "5T",
+    "Entity": "Mauritania",
+    "Continent": "AF",
+    "ITU": "46",
+    "CQ": "35",
+    "Lat": 20.2540382,
+    "Lon": -9.2399263
+  },
+  {
+    "Prefix": "5U",
+    "Entity": "Niger",
+    "Continent": "AF",
+    "ITU": "46",
+    "CQ": "35",
+    "Lat": 17.7356214,
+    "Lon": 9.3238432
+  },
+  {
+    "Prefix": "5V",
+    "Entity": "Togo",
+    "Continent": "AF",
+    "ITU": "46",
+    "CQ": "35",
+    "Lat": 8.7800265,
+    "Lon": 1.0199765
+  },
+  {
+    "Prefix": "5W",
+    "Entity": "Samoa",
+    "Continent": "OC",
+    "ITU": "62",
+    "CQ": "32",
+    "Lat": -13.7693895,
+    "Lon": -172.12005
+  },
+  {
+    "Prefix": "5X",
+    "Entity": "Uganda",
+    "Continent": "AF",
+    "ITU": "48",
+    "CQ": "37",
+    "Lat": 1.5333554,
+    "Lon": 32.2166578
+  },
+  {
+    "Prefix": "5Y,5Z",
+    "Entity": "Kenya",
+    "Continent": "AF",
+    "ITU": "48",
+    "CQ": "37",
+    "Lat": 1.4419683,
+    "Lon": 38.4313975
+  },
+  {
+    "Prefix": "6V,6W",
+    "Entity": "Senegal",
+    "Continent": "AF",
+    "ITU": "46",
+    "CQ": "35",
+    "Lat": 14.4750607,
+    "Lon": -14.4529612
+  },
+  {
+    "Prefix": "6Y",
+    "Entity": "Jamaica",
+    "Continent": "NA",
+    "ITU": "11",
+    "CQ": "08",
+    "Lat": 18.1850507,
+    "Lon": -77.3947693
+  },
+  {
+    "Prefix": "7O",
+    "Entity": "Yemen",
+    "Continent": "AS",
+    "ITU": "39",
+    "CQ": "21",
+    "Lat": 16.3471243,
+    "Lon": 47.8915271
+  },
+  {
+    "Prefix": "7P",
+    "Entity": "Lesotho",
+    "Continent": "AF",
+    "ITU": "57",
+    "CQ": "38",
+    "Lat": -29.6039267,
+    "Lon": 28.3350193
+  },
+  {
+    "Prefix": "7Q",
+    "Entity": "Malawi",
+    "Continent": "AF",
+    "ITU": "53",
+    "CQ": "37",
+    "Lat": -13.2687204,
+    "Lon": 33.9301963
+  },
+  {
+    "Prefix": "7R,7T-7Y",
+    "Entity": "Algeria",
+    "Continent": "AF",
+    "ITU": "37",
+    "CQ": "33",
+    "Lat": 28.0000272,
+    "Lon": 2.9999825
+  },
+  {
+    "Prefix": "8P",
+    "Entity": "Barbados",
+    "Continent": "NA",
+    "ITU": "11",
+    "CQ": "08",
+    "Lat": 13.1500331,
+    "Lon": -59.5250305
+  },
+  {
+    "Prefix": "8Q",
+    "Entity": "Maldives",
+    "Continent": "AS,AF",
+    "ITU": "41",
+    "CQ": "22",
+    "Lat": 3.7203503,
+    "Lon": 73.2244152
+  },
+  {
+    "Prefix": "8R",
+    "Entity": "Guyana",
+    "Continent": "SA",
+    "ITU": "12",
+    "CQ": "09",
+    "Lat": 4.8417097,
+    "Lon": -58.6416891
+  },
+  {
+    "Prefix": "9A",
+    "Entity": "Croatia",
+    "Continent": "EU",
+    "ITU": "28",
+    "CQ": "15",
+    "Lat": 45.3658443,
+    "Lon": 15.6575209
+  },
+  {
+    "Prefix": "9G",
+    "Entity": "Ghana",
+    "Continent": "AF",
+    "ITU": "46",
+    "CQ": "35",
+    "Lat": 8.0300284,
+    "Lon": -1.0800271
+  },
+  {
+    "Prefix": "9H",
+    "Entity": "Malta",
+    "Continent": "EU",
+    "ITU": "28",
+    "CQ": "15",
+    "Lat": 35.9311442,
+    "Lon": 14.3951627
+  },
+  {
+    "Prefix": "9I,9J",
+    "Entity": "Zambia",
+    "Continent": "AF",
+    "ITU": "53",
+    "CQ": "36",
+    "Lat": -14.5189121,
+    "Lon": 27.5589884
+  },
+  {
+    "Prefix": "9K",
+    "Entity": "Kuwait",
+    "Continent": "AS",
+    "ITU": "39",
+    "CQ": "21",
+    "Lat": 29.2733964,
+    "Lon": 47.4979476
+  },
+  {
+    "Prefix": "9L",
+    "Entity": "Sierra Leone",
+    "Continent": "AF",
+    "ITU": "46",
+    "CQ": "35",
+    "Lat": 8.6400349,
+    "Lon": -11.8400269
+  },
+  {
+    "Prefix": "9M2,9M4",
+    "Entity": "West Malaysia",
+    "Continent": "AS",
+    "ITU": "54",
+    "CQ": "28",
+    "Lat": 4.10110,
+    "Lon": 101.90918
+  },
+  {
+    "Prefix": "9M6,9M8",
+    "Entity": "East Malaysia",
+    "Continent": "OC",
+    "ITU": "54",
+    "CQ": "28",
+    "Lat": 2.60911,
+    "Lon": 113.44482
+  },
+  {
+    "Prefix": "9N",
+    "Entity": "Nepal",
+    "Continent": "AS",
+    "ITU": "42",
+    "CQ": "22",
+    "Lat": 28.3780464,
+    "Lon": 83.9999901
+  },
+  {
+    "Prefix": "9O-9T",
+    "Entity": "Congo",
+    "Continent": "AF",
+    "ITU": "52",
+    "CQ": "36",
+    "Lat": -0.7264327,
+    "Lon": 15.6419155
+  },
+  {
+    "Prefix": "9U",
+    "Entity": "Burundi",
+    "Continent": "AF",
+    "ITU": "52",
+    "CQ": "36",
+    "Lat": -3.426449,
+    "Lon": 29.9324519
+  },
+  {
+    "Prefix": "9V",
+    "Entity": "Singapore",
+    "Continent": "AS",
+    "ITU": "54",
+    "CQ": "28",
+    "Lat": 1.357107,
+    "Lon": 103.8194992
+  },
+  {
+    "Prefix": "9X",
+    "Entity": "Rwanda",
+    "Continent": "AF",
+    "ITU": "52",
+    "CQ": "36",
+    "Lat": -1.9646631,
+    "Lon": 30.0644358
+  },
+  {
+    "Prefix": "9Y,9Z",
+    "Entity": "Trinidad & Tobago",
+    "Continent": "SA",
+    "ITU": "11",
+    "CQ": "09",
+    "Lat": 10.49558,
+    "Lon": -61.22955
+  },
+  {
+    "Prefix": "A2,8O",
+    "Entity": "Botswana",
+    "Continent": "AF",
+    "ITU": "57",
+    "CQ": "38",
+    "Lat": -23.1681782,
+    "Lon": 24.5928742
+  },
+  {
+    "Prefix": "A3",
+    "Entity": "Tonga",
+    "Continent": "OC",
+    "ITU": "62",
+    "CQ": "32",
+    "Lat": -19.9160819,
+    "Lon": -175.202642
+  },
+  {
+    "Prefix": "A4",
+    "Entity": "Oman",
+    "Continent": "AS",
+    "ITU": "39",
+    "CQ": "21",
+    "Lat": 21.0000287,
+    "Lon": 57.0036901
+  },
+  {
+    "Prefix": "A5",
+    "Entity": "Bhutan",
+    "Continent": "AS",
+    "ITU": "41",
+    "CQ": "22",
+    "Lat": 27.549511,
+    "Lon": 90.5119273
+  },
+  {
+    "Prefix": "A6",
+    "Entity": "United Arab Emirates",
+    "Continent": "AS",
+    "ITU": "39",
+    "CQ": "21",
+    "Lat": 24.0002488,
+    "Lon": 53.9994829
+  },
+  {
+    "Prefix": "A7",
+    "Entity": "Qatar",
+    "Continent": "AS",
+    "ITU": "39",
+    "CQ": "21",
+    "Lat": 25.3336984,
+    "Lon": 51.2295295
+  },
+  {
+    "Prefix": "A9",
+    "Entity": "Bahrain",
+    "Continent": "AS",
+    "ITU": "39",
+    "CQ": "21",
+    "Lat": 26.1551249,
+    "Lon": 50.5344606
+  },
+  {
+    "Prefix": "AP-AS",
+    "Entity": "Pakistan",
+    "Continent": "AS",
+    "ITU": "41",
+    "CQ": "21",
+    "Lat": 30.3308401,
+    "Lon": 71.247499
+  },
+  {
+    "Prefix": "B",
+    "Entity": "China",
+    "Continent": "AS",
+    "ITU": "(A)",
+    "CQ": "23,24",
+    "Lat": 35.000074,
+    "Lon": 104.999927
+  },
+  {
+    "Prefix": "BS7",
+    "Entity": "Scarborough Reef",
+    "Continent": "AS",
+    "ITU": "50",
+    "CQ": "27",
+    "Lat": 15.1635867,
+    "Lon": 117.7938791
+  },
+  {
+    "Prefix": "BU-BX",
+    "Entity": "Taiwan",
+    "Continent": "AS",
+    "ITU": "44",
+    "CQ": "24",
+    "Lat": 23.9739374,
+    "Lon": 120.9820179
+  },
+  {
+    "Prefix": "BV9P",
+    "Entity": "Pratas Island",
+    "Continent": "AS",
+    "ITU": "44",
+    "CQ": "24",
+    "Lat": 21.0796538,
+    "Lon": 116.0338255
+  },
+  {
+    "Prefix": "C2",
+    "Entity": "Nauru",
+    "Continent": "OC",
+    "ITU": "65",
+    "CQ": "31",
+    "Lat": -0.5252306,
+    "Lon": 166.9324426
+  },
+  {
+    "Prefix": "C3",
+    "Entity": "Andorra",
+    "Continent": "EU",
+    "ITU": "27",
+    "CQ": "14",
+    "Lat": 42.5407167,
+    "Lon": 1.5732033
+  },
+  {
+    "Prefix": "C5",
+    "Entity": "Gambia",
+    "Continent": "AF",
+    "ITU": "46",
+    "CQ": "35",
+    "Lat": 13.470062,
+    "Lon": -15.4900464
+  },
+  {
+    "Prefix": "C6",
+    "Entity": "Bahamas",
+    "Continent": "NA",
+    "ITU": "11",
+    "CQ": "08",
+    "Lat": 24.7736546,
+    "Lon": -78.0000547
+  },
+  {
+    "Prefix": "C8,C9",
+    "Entity": "Mozambique",
+    "Continent": "AF",
+    "ITU": "53",
+    "CQ": "37",
+    "Lat": -19.302233,
+    "Lon": 34.9144977
+  },
+  {
+    "Prefix": "CA-CE",
+    "Entity": "Chile",
+    "Continent": "SA",
+    "ITU": "14,16",
+    "CQ": "12",
+    "Lat": -31.7613365,
+    "Lon": -71.3187697
+  },
+  {
+    "Prefix": "CE0",
+    "Entity": "Easter Island",
+    "Continent": "SA",
+    "ITU": "63",
+    "CQ": "12",
+    "Lat": -27.1259317,
+    "Lon": -109.3495887
+  },
+  {
+    "Prefix": "CE0",
+    "Entity": "Juan Fernandez Island",
+    "Continent": "SA",
+    "ITU": "14",
+    "CQ": "12",
+    "Lat": -33.6444501,
+    "Lon": -78.8262238
+  },
+  {
+    "Prefix": "CE0",
+    "Entity": "San Felix & San Ambrosio Islands",
+    "Continent": "SA",
+    "ITU": "14",
+    "CQ": "12",
+    "Lat": -26.320835,
+    "Lon": -79.991743
+  },
+  {
+    "Prefix": "CE9/KC4",
+    "Entity": "Antarctica",
+    "Continent": "AN",
+    "ITU": "(B)",
+    "CQ": "(C)",
+    "Lat": -79.4063075,
+    "Lon": 0.3149312
+  },
+  {
+    "Prefix": "CL-CM,CO",
+    "Entity": "Cuba",
+    "Continent": "NA",
+    "ITU": "11",
+    "CQ": "08",
+    "Lat": 23.0131338,
+    "Lon": -80.8328748
+  },
+  {
+    "Prefix": "CN,5C-5G",
+    "Entity": "Morocco",
+    "Continent": "AF",
+    "ITU": "37",
+    "CQ": "33",
+    "Lat": 32.02254,
+    "Lon": -6.32813
+  },
+  {
+    "Prefix": "CP",
+    "Entity": "Bolivia",
+    "Continent": "SA",
+    "ITU": "12,14",
+    "CQ": "10",
+    "Lat": -17.0568696,
+    "Lon": -64.9912286
+  },
+  {
+    "Prefix": "CQ-CU",
+    "Entity": "Portugal",
+    "Continent": "EU",
+    "ITU": "37",
+    "CQ": "14",
+    "Lat": 39.6621648,
+    "Lon": -8.1353519
+  },
+  {
+    "Prefix": "CT3",
+    "Entity": "Madeira Island",
+    "Continent": "AF",
+    "ITU": "36",
+    "CQ": "33",
+    "Lat": 32.7517501,
+    "Lon": -16.9817487
+  },
+  {
+    "Prefix": "CU",
+    "Entity": "Azores",
+    "Continent": "EU",
+    "ITU": "36",
+    "CQ": "14",
+    "Lat": 38.58137,
+    "Lon": -28.07007
+  },
+  {
+    "Prefix": "CV-CX",
+    "Entity": "Uruguay",
+    "Continent": "SA",
+    "ITU": "14",
+    "CQ": "13",
+    "Lat": -32.8755548,
+    "Lon": -56.0201525
+  },
+  {
+    "Prefix": "CY0",
+    "Entity": "Sable Island",
+    "Continent": "NA",
+    "ITU": "09",
+    "CQ": "05",
+    "Lat": 43.92852,
+    "Lon": -59.90090
+  },
+  {
+    "Prefix": "CY9",
+    "Entity": "Saint Paul Island",
+    "Continent": "NA",
+    "ITU": "09",
+    "CQ": "05",
+    "Lat": 47.202036,
+    "Lon": -60.150748
+  },
+  {
+    "Prefix": "D2,D3",
+    "Entity": "Angola",
+    "Continent": "AF",
+    "ITU": "52",
+    "CQ": "36",
+    "Lat": -11.8775768,
+    "Lon": 17.5691241
+  },
+  {
+    "Prefix": "D4",
+    "Entity": "Cabo Verde",
+    "Continent": "AF",
+    "ITU": "46",
+    "CQ": "35",
+    "Lat": 16.0000552,
+    "Lon": -24.0083947
+  },
+  {
+    "Prefix": "D6",
+    "Entity": "Comoros",
+    "Continent": "AF",
+    "ITU": "53",
+    "CQ": "39",
+    "Lat": -12.10470,
+    "Lon": 43.78601
+  },
+  {
+    "Prefix": "DA-DR",
+    "Entity": "Germany",
+    "Continent": "EU",
+    "ITU": "28",
+    "CQ": "14",
+    "Lat": 51.1638175,
+    "Lon": 10.4478313
+  },
+  {
+    "Prefix": "DU-DZ,4D-4I",
+    "Entity": "Philippines",
+    "Continent": "OC",
+    "ITU": "50",
+    "CQ": "27",
+    "Lat": 12.7503486,
+    "Lon": 122.7312101
+  },
+  {
+    "Prefix": "E3",
+    "Entity": "Eritrea",
+    "Continent": "AF",
+    "ITU": "48",
+    "CQ": "37",
+    "Lat": 15.9500319,
+    "Lon": 37.9999668
+  },
+  {
+    "Prefix": "E4",
+    "Entity": "Palestine",
+    "Continent": "AS",
+    "ITU": "39",
+    "CQ": "20",
+    "Lat": 32.038868,
+    "Lon": 35.263832
+  },
+  {
+    "Prefix": "E5",
+    "Entity": "Northern Cook Islands",
+    "Continent": "OC",
+    "ITU": "62",
+    "CQ": "32",
+    "Lat": -10.001133,
+    "Lon": -161.000119
+  },
+  {
+    "Prefix": "E5",
+    "Entity": "Southern Cook Islands",
+    "Continent": "OC",
+    "ITU": "62",
+    "CQ": "32",
+    "Lat": -20.001510,
+    "Lon": -159.000721
+  },
+  {
+    "Prefix": "E6",
+    "Entity": "Niue",
+    "Continent": "OC",
+    "ITU": "62",
+    "CQ": "32",
+    "Lat": -18.6,
+    "Lon": -174.0
+  },
+  {
+    "Prefix": "E7",
+    "Entity": "Bosnia-Herzegovina",
+    "Continent": "EU",
+    "ITU": "28",
+    "CQ": "15",
+    "Lat": 44.3053476,
+    "Lon": 17.5961467
+  },
+  {
+    "Prefix": "EA-EH",
+    "Entity": "Spain",
+    "Continent": "EU",
+    "ITU": "37",
+    "CQ": "14",
+    "Lat": 39.3260685,
+    "Lon": -4.8379791
+  },
+  {
+    "Prefix": "EA6-EH6",
+    "Entity": "Balearic Islands",
+    "Continent": "EU",
+    "ITU": "37",
+    "CQ": "14",
+    "Lat": 39.613432,
+    "Lon": 2.8829185
+  },
+  {
+    "Prefix": "EA8-EH8",
+    "Entity": "Canary Islands",
+    "Continent": "AF",
+    "ITU": "36",
+    "CQ": "33",
+    "Lat": 28.2935785,
+    "Lon": -16.6214471
+  },
+  {
+    "Prefix": "EA9-EH9",
+    "Entity": "Ceuta & Melilla",
+    "Continent": "AF",
+    "ITU": "37",
+    "CQ": "33",
+    "Lat": 35.2776619,
+    "Lon": -2.941502
+  },
+  {
+    "Prefix": "EI,EJ",
+    "Entity": "Ireland",
+    "Continent": "EU",
+    "ITU": "27",
+    "CQ": "14",
+    "Lat": 52.865196,
+    "Lon": -7.9794599
+  },
+  {
+    "Prefix": "EK",
+    "Entity": "Armenia",
+    "Continent": "AS",
+    "ITU": "29",
+    "CQ": "21",
+    "Lat": 40.7696272,
+    "Lon": 44.6736646
+  },
+  {
+    "Prefix": "EL",
+    "Entity": "Liberia",
+    "Continent": "AF",
+    "ITU": "46",
+    "CQ": "35",
+    "Lat": 5.7499721,
+    "Lon": -9.3658524
+  },
+  {
+    "Prefix": "EP,EQ",
+    "Entity": "Iran",
+    "Continent": "AS",
+    "ITU": "40",
+    "CQ": "21",
+    "Lat": 32.6475314,
+    "Lon": 54.5643516
+  },
+  {
+    "Prefix": "ER",
+    "Entity": "Moldova",
+    "Continent": "EU",
+    "ITU": "29",
+    "CQ": "16",
+    "Lat": 47.2879608,
+    "Lon": 28.5670941
+  },
+  {
+    "Prefix": "ES",
+    "Entity": "Estonia",
+    "Continent": "EU",
+    "ITU": "29",
+    "CQ": "15",
+    "Lat": 58.7523778,
+    "Lon": 25.3319078
+  },
+  {
+    "Prefix": "ET",
+    "Entity": "Ethiopia",
+    "Continent": "AF",
+    "ITU": "48",
+    "CQ": "37",
+    "Lat": 10.2116702,
+    "Lon": 38.6521203
+  },
+  {
+    "Prefix": "EU-EW",
+    "Entity": "Belarus",
+    "Continent": "EU",
+    "ITU": "29",
+    "CQ": "16",
+    "Lat": 53.4250605,
+    "Lon": 27.6971358
+  },
+  {
+    "Prefix": "EX",
+    "Entity": "Kyrgyzstan",
+    "Continent": "AS",
+    "ITU": "30,31",
+    "CQ": "17",
+    "Lat": 41.5089324,
+    "Lon": 74.724091
+  },
+  {
+    "Prefix": "EY",
+    "Entity": "Tajikistan",
+    "Continent": "AS",
+    "ITU": "30",
+    "CQ": "17",
+    "Lat": 38.6281733,
+    "Lon": 70.8156541
+  },
+  {
+    "Prefix": "EZ",
+    "Entity": "Turkmenistan",
+    "Continent": "AS",
+    "ITU": "30",
+    "CQ": "17",
+    "Lat": 39.3763807,
+    "Lon": 59.3924609
+  },
+  {
+    "Prefix": "F",
+    "Entity": "France",
+    "Continent": "EU",
+    "ITU": "27",
+    "CQ": "14",
+    "Lat": 46.603354,
+    "Lon": 1.8883335
+  },
+  {
+    "Prefix": "FG,TO",
+    "Entity": "Guadeloupe",
+    "Continent": "NA",
+    "ITU": "11",
+    "CQ": "08",
+    "Lat": 16.2528827,
+    "Lon": -61.5686855
+  },
+  {
+    "Prefix": "FH,TO",
+    "Entity": "Mayotte",
+    "Continent": "AF",
+    "ITU": "53",
+    "CQ": "39",
+    "Lat": -12.823048,
+    "Lon": 45.1520755
+  },
+  {
+    "Prefix": "FJ,TO",
+    "Entity": "Saint Barthelemy",
+    "Continent": "NA",
+    "ITU": "11",
+    "CQ": "08",
+    "Lat": 17.8967693,
+    "Lon": -62.825598
+  },
+  {
+    "Prefix": "FK,TX",
+    "Entity": "New Caledonia",
+    "Continent": "OC",
+    "ITU": "56",
+    "CQ": "32",
+    "Lat": -20.6378428,
+    "Lon": 161.2117626
+  },
+  {
+    "Prefix": "FK,TX",
+    "Entity": "Chesterfield Islands",
+    "Continent": "OC",
+    "ITU": "56",
+    "CQ": "30",
+    "Lat": -19.9689865,
+    "Lon": 158.4757096
+  },
+  {
+    "Prefix": "FM,TO",
+    "Entity": "Martinique",
+    "Continent": "NA",
+    "ITU": "11",
+    "CQ": "08",
+    "Lat": 14.6113732,
+    "Lon": -60.9620777
+  },
+  {
+    "Prefix": "FO,TO",
+    "Entity": "Austral Islands",
+    "Continent": "OC",
+    "ITU": "63",
+    "CQ": "32",
+    "Lat": -23.35515,
+    "Lon": -149.46350
+  },
+  {
+    "Prefix": "FO,TX",
+    "Entity": "Clipperton Island",
+    "Continent": "NA",
+    "ITU": "10",
+    "CQ": "07",
+    "Lat": 10.3036472,
+    "Lon": -109.2163215
+  },
+  {
+    "Prefix": "FO,TX",
+    "Entity": "French Polynesia",
+    "Continent": "OC",
+    "ITU": "63",
+    "CQ": "32",
+    "Lat": -17.0243749,
+    "Lon": -144.6434898
+  },
+  {
+    "Prefix": "FO,TX",
+    "Entity": "Marquesas Islands",
+    "Continent": "OC",
+    "ITU": "63",
+    "CQ": "31",
+    "Lat": -9.7793255,
+    "Lon": -139.0067835
+  },
+  {
+    "Prefix": "FP",
+    "Entity": "Saint Pierre & Miquelon",
+    "Continent": "NA",
+    "ITU": "09",
+    "CQ": "05",
+    "Lat": 46.7775497,
+    "Lon": -56.1768672
+  },
+  {
+    "Prefix": "FR,TO",
+    "Entity": "Reunion Island",
+    "Continent": "AF",
+    "ITU": "53",
+    "CQ": "39",
+    "Lat": -21.1307379,
+    "Lon": 55.5364801
+  },
+  {
+    "Prefix": "FT/G,TO",
+    "Entity": "Glorioso Islands",
+    "Continent": "AF",
+    "ITU": "53",
+    "CQ": "39",
+    "Lat": -11.5541345,
+    "Lon": 47.3333501
+  },
+  {
+    "Prefix": "FT/J,E,TO",
+    "Entity": "Juan de Nova Island",
+    "Continent": "AF",
+    "ITU": "53",
+    "CQ": "39",
+    "Lat": -17.0510945,
+    "Lon": 42.724653
+  },
+  {
+    "Prefix": "FT/T,TO",
+    "Entity": "Tromelin Island",
+    "Continent": "AF",
+    "ITU": "53",
+    "CQ": "39",
+    "Lat": -15.8913279,
+    "Lon": 54.5230269
+  },
+  {
+    "Prefix": "FS,TO",
+    "Entity": "Saint Martin",
+    "Continent": "NA",
+    "ITU": "11",
+    "CQ": "08",
+    "Lat": 18.064039,
+    "Lon": -63.058643
+  },
+  {
+    "Prefix": "FT/W",
+    "Entity": "Crozet Islands",
+    "Continent": "AF",
+    "ITU": "68",
+    "CQ": "39",
+    "Lat": -46.41187,
+    "Lon": 51.98421
+  },
+  {
+    "Prefix": "FT/X",
+    "Entity": "Kerguelen Islands",
+    "Continent": "AF",
+    "ITU": "68",
+    "CQ": "39",
+    "Lat": -49.237442,
+    "Lon": 69.622759
+  },
+  {
+    "Prefix": "FT/Z",
+    "Entity": "Amsterdam and Saint-Paul Islands",
+    "Continent": "AF",
+    "ITU": "68",
+    "CQ": "39",
+    "Lat": -38.720688,
+    "Lon": 77.5152454
+  },
+  {
+    "Prefix": "FW",
+    "Entity": "Wallis & Futuna Islands",
+    "Continent": "OC",
+    "ITU": "62",
+    "CQ": "32",
+    "Lat": -14.276851,
+    "Lon": -178.14235
+  },
+  {
+    "Prefix": "FY",
+    "Entity": "French Guiana",
+    "Continent": "SA",
+    "ITU": "12",
+    "CQ": "09",
+    "Lat": 4.0039882,
+    "Lon": -52.999998
+  },
+  {
+    "Prefix": "G",
+    "Entity": "United Kingdom",
+    "Continent": "EU",
+    "ITU": "27",
+    "CQ": "14",
+    "Lat": 54.7023545,
+    "Lon": -3.2765753
+  },
+  {
+    "Prefix": "GD,GT",
+    "Entity": "Isle of Man",
+    "Continent": "EU",
+    "ITU": "27",
+    "CQ": "14",
+    "Lat": 54.1936805,
+    "Lon": -4.5591148
+  },
+  {
+    "Prefix": "GI,GN",
+    "Entity": "Northern Ireland",
+    "Continent": "EU",
+    "ITU": "27",
+    "CQ": "14",
+    "Lat": 54.5859836,
+    "Lon": -6.9591554
+  },
+  {
+    "Prefix": "GJ,GH",
+    "Entity": "Jersey",
+    "Continent": "EU",
+    "ITU": "27",
+    "CQ": "14",
+    "Lat": 49.2214561,
+    "Lon": -2.1358386
+  },
+  {
+    "Prefix": "GM,GS",
+    "Entity": "Scotland",
+    "Continent": "EU",
+    "ITU": "27",
+    "CQ": "14",
+    "Lat": 56.7861112,
+    "Lon": -4.1140518
+  },
+  {
+    "Prefix": "GU,GP",
+    "Entity": "Guernsey",
+    "Continent": "EU",
+    "ITU": "27",
+    "CQ": "14",
+    "Lat": 49.4622913,
+    "Lon": -2.5812023
+  },
+  {
+    "Prefix": "GW,GC",
+    "Entity": "Wales",
+    "Continent": "EU",
+    "ITU": "27",
+    "CQ": "14",
+    "Lat": 52.2928116,
+    "Lon": -3.73893
+  },
+  {
+    "Prefix": "H4",
+    "Entity": "Solomon Islands",
+    "Continent": "OC",
+    "ITU": "51",
+    "CQ": "28",
+    "Lat": -8.7053941,
+    "Lon": 159.1070694
+  },
+  {
+    "Prefix": "H40",
+    "Entity": "Temotu Province",
+    "Continent": "OC",
+    "ITU": "51",
+    "CQ": "32",
+    "Lat": -10.8891322,
+    "Lon": 166.231035
+  },
+  {
+    "Prefix": "HA,HG",
+    "Entity": "Hungary",
+    "Continent": "EU",
+    "ITU": "28",
+    "CQ": "15",
+    "Lat": 47.1817585,
+    "Lon": 19.5060937
+  },
+  {
+    "Prefix": "HB",
+    "Entity": "Switzerland",
+    "Continent": "EU",
+    "ITU": "28",
+    "CQ": "14",
+    "Lat": 46.7985624,
+    "Lon": 8.2319736
+  },
+  {
+    "Prefix": "HB0",
+    "Entity": "Liechtenstein",
+    "Continent": "EU",
+    "ITU": "28",
+    "CQ": "14",
+    "Lat": 47.1416307,
+    "Lon": 9.5531527
+  },
+  {
+    "Prefix": "HC,HD",
+    "Entity": "Ecuador",
+    "Continent": "SA",
+    "ITU": "12",
+    "CQ": "10",
+    "Lat": -1.3397668,
+    "Lon": -79.3666965
+  },
+  {
+    "Prefix": "HC8,HD8",
+    "Entity": "Galapagos Islands",
+    "Continent": "SA",
+    "ITU": "12",
+    "CQ": "10",
+    "Lat": -0.6288151,
+    "Lon": -90.3638752
+  },
+  {
+    "Prefix": "HH",
+    "Entity": "Haiti",
+    "Continent": "NA",
+    "ITU": "11",
+    "CQ": "08",
+    "Lat": 19.1399952,
+    "Lon": -72.3570972
+  },
+  {
+    "Prefix": "HI",
+    "Entity": "Dominican Republic",
+    "Continent": "NA",
+    "ITU": "11",
+    "CQ": "08",
+    "Lat": 19.0974031,
+    "Lon": -70.3028026
+  },
+  {
+    "Prefix": "HJ,HK,5J,5K",
+    "Entity": "Colombia",
+    "Continent": "SA",
+    "ITU": "12",
+    "CQ": "09",
+    "Lat": 4.099917,
+    "Lon": -72.9088133
+  },
+  {
+    "Prefix": "HK0",
+    "Entity": "Malpelo Island",
+    "Continent": "SA",
+    "ITU": "12",
+    "CQ": "09",
+    "Lat": 4.0032327,
+    "Lon": -81.6081487
+  },
+  {
+    "Prefix": "HK0",
+    "Entity": "San Andres & Providencia",
+    "Continent": "NA",
+    "ITU": "11",
+    "CQ": "07",
+    "Lat": 12.5375979,
+    "Lon": -81.7204155
+  },
+  {
+    "Prefix": "HL,6K-6N",
+    "Entity": "South Korea",
+    "Continent": "AS",
+    "ITU": "44",
+    "CQ": "25",
+    "Lat": 36.638392,
+    "Lon": 127.6961188
+  },
+  {
+    "Prefix": "HO,HP",
+    "Entity": "Panama",
+    "Continent": "NA",
+    "ITU": "11",
+    "CQ": "07",
+    "Lat": 8.843273,
+    "Lon": -79.7053673
+  },
+  {
+    "Prefix": "HQ,HR",
+    "Entity": "Honduras",
+    "Continent": "NA",
+    "ITU": "11",
+    "CQ": "07",
+    "Lat": 15.2572432,
+    "Lon": -86.0755145
+  },
+  {
+    "Prefix": "HS,E2",
+    "Entity": "Thailand",
+    "Continent": "AS",
+    "ITU": "49",
+    "CQ": "26",
+    "Lat": 14.8971921,
+    "Lon": 100.83273
+  },
+  {
+    "Prefix": "HV",
+    "Entity": "Vatican",
+    "Continent": "EU",
+    "ITU": "28",
+    "CQ": "15",
+    "Lat": 41.9034912,
+    "Lon": 12.4528349
+  },
+  {
+    "Prefix": "HZ",
+    "Entity": "Saudi Arabia",
+    "Continent": "AS",
+    "ITU": "39",
+    "CQ": "21",
+    "Lat": 25.6242618,
+    "Lon": 42.3528328
+  },
+  {
+    "Prefix": "I",
+    "Entity": "Italy",
+    "Continent": "EU",
+    "ITU": "28",
+    "CQ": "15,33",
+    "Lat": 42.6384261,
+    "Lon": 12.674297
+  },
+  {
+    "Prefix": "IS0,IM0",
+    "Entity": "Sardinia",
+    "Continent": "EU",
+    "ITU": "28",
+    "CQ": "15",
+    "Lat": 40.0912813,
+    "Lon": 9.0305773
+  },
+  {
+    "Prefix": "J2",
+    "Entity": "Djibouti",
+    "Continent": "AF",
+    "ITU": "48",
+    "CQ": "37",
+    "Lat": 11.8145966,
+    "Lon": 42.8453061
+  },
+  {
+    "Prefix": "J3",
+    "Entity": "Grenada",
+    "Continent": "NA",
+    "ITU": "11",
+    "CQ": "08",
+    "Lat": 12.1360374,
+    "Lon": -61.6904045
+  },
+  {
+    "Prefix": "J5",
+    "Entity": "Guinea-Bissau",
+    "Continent": "AF",
+    "ITU": "46",
+    "CQ": "35",
+    "Lat": 11.815215,
+    "Lon": -15.2351044
+  },
+  {
+    "Prefix": "J6",
+    "Entity": "Saint Lucia",
+    "Continent": "NA",
+    "ITU": "11",
+    "CQ": "08",
+    "Lat": 13.8250489,
+    "Lon": -60.975036
+  },
+  {
+    "Prefix": "J7",
+    "Entity": "Dominica",
+    "Continent": "NA",
+    "ITU": "11",
+    "CQ": "08",
+    "Lat": 15.4238539,
+    "Lon": -61.3416513
+  },
+  {
+    "Prefix": "J8",
+    "Entity": "Saint Vincent & Grenadines",
+    "Continent": "NA",
+    "ITU": "11",
+    "CQ": "08",
+    "Lat": 12.90451,
+    "Lon": -61.27659
+  },
+  {
+    "Prefix": "JA-JS,7J-7N",
+    "Entity": "Japan",
+    "Continent": "AS",
+    "ITU": "45",
+    "CQ": "25",
+    "Lat": 36.5748441,
+    "Lon": 139.2394179
+  },
+  {
+    "Prefix": "JD1",
+    "Entity": "Minami Torishima",
+    "Continent": "OC",
+    "ITU": "90",
+    "CQ": "27",
+    "Lat": 24.2840165,
+    "Lon": 153.9785123
+  },
+  {
+    "Prefix": "JD1",
+    "Entity": "Ogasawara",
+    "Continent": "AS",
+    "ITU": "45",
+    "CQ": "27",
+    "Lat": 27.0942961,
+    "Lon": 142.1918887
+  },
+  {
+    "Prefix": "JT-JV",
+    "Entity": "Mongolia",
+    "Continent": "AS",
+    "ITU": "32,33",
+    "CQ": "23",
+    "Lat": 46.8250388,
+    "Lon": 103.8499736
+  },
+  {
+    "Prefix": "JW",
+    "Entity": "Svalbard",
+    "Continent": "EU",
+    "ITU": "18",
+    "CQ": "40",
+    "Lat": 78.7198519,
+    "Lon": 20.3493328
+  },
+  {
+    "Prefix": "JX",
+    "Entity": "Jan Mayen",
+    "Continent": "EU",
+    "ITU": "18",
+    "CQ": "40",
+    "Lat": 70.9951725,
+    "Lon": -8.4656563
+  },
+  {
+    "Prefix": "JY",
+    "Entity": "Jordan",
+    "Continent": "AS",
+    "ITU": "39",
+    "CQ": "20",
+    "Lat": 31.1667049,
+    "Lon": 36.941628
+  },
+  {
+    "Prefix": "K,W,N,AA-AK",
+    "Entity": "United States of America",
+    "Continent": "NA",
+    "ITU": "06-08",
+    "CQ": "03-05",
+    "Lat": 39.7837304,
+    "Lon": -100.445882
+  },
+  {
+    "Prefix": "KG4",
+    "Entity": "Guantanamo Bay",
+    "Continent": "NA",
+    "ITU": "11",
+    "CQ": "08",
+    "Lat": 19.9185556,
+    "Lon": -75.1593258
+  },
+  {
+    "Prefix": "KH0",
+    "Entity": "Mariana Islands",
+    "Continent": "OC",
+    "ITU": "64",
+    "CQ": "27",
+    "Lat": 17.01074,
+    "Lon": 145.81879
+  },
+  {
+    "Prefix": "KH1",
+    "Entity": "Baker & Howland Islands",
+    "Continent": "OC",
+    "ITU": "61",
+    "CQ": "31",
+    "Lat": 0.531953,
+    "Lon": -176.570015
+  },
+  {
+    "Prefix": "KH2",
+    "Entity": "Guam",
+    "Continent": "OC",
+    "ITU": "64",
+    "CQ": "27",
+    "Lat": 13.4499943,
+    "Lon": 144.7651677
+  },
+  {
+    "Prefix": "KH3",
+    "Entity": "Johnston Island",
+    "Continent": "OC",
+    "ITU": "61",
+    "CQ": "31",
+    "Lat": 16.7288959,
+    "Lon": -169.5338642
+  },
+  {
+    "Prefix": "KH4",
+    "Entity": "Midway Islands",
+    "Continent": "OC",
+    "ITU": "61",
+    "CQ": "31",
+    "Lat": 28.24175,
+    "Lon": -177.37543
+  },
+  {
+    "Prefix": "KH5",
+    "Entity": "Palmyra & Jarvis Islands",
+    "Continent": "OC",
+    "ITU": "61,62",
+    "CQ": "31",
+    "Lat": 5.88220,
+    "Lon": -162.07488
+  },
+  {
+    "Prefix": "KH6,KH7",
+    "Entity": "Hawaii",
+    "Continent": "OC",
+    "ITU": "61",
+    "CQ": "31",
+    "Lat": 20.82444,
+    "Lon": -156.91910
+  },
+  {
+    "Prefix": "KH7K",
+    "Entity": "Kure Island",
+    "Continent": "OC",
+    "ITU": "61",
+    "CQ": "31",
+    "Lat": 25.1,
+    "Lon": -168.3
+  },
+  {
+    "Prefix": "KH8",
+    "Entity": "American Samoa",
+    "Continent": "OC",
+    "ITU": "62",
+    "CQ": "32",
+    "Lat": -14.297124,
+    "Lon": -170.7131481
+  },
+  {
+    "Prefix": "KH8",
+    "Entity": "Swains Island",
+    "Continent": "OC",
+    "ITU": "62",
+    "CQ": "32",
+    "Lat": -11.052904,
+    "Lon": -171.0767349
+  },
+  {
+    "Prefix": "KH9",
+    "Entity": "Wake Island",
+    "Continent": "OC",
+    "ITU": "65",
+    "CQ": "31",
+    "Lat": 19.2960859,
+    "Lon": 166.6269779
+  },
+  {
+    "Prefix": "KL,AL,NL,WL",
+    "Entity": "Alaska",
+    "Continent": "NA",
+    "ITU": "01,02",
+    "CQ": "01",
+    "Lat": 64.4459613,
+    "Lon": -149.680909
+  },
+  {
+    "Prefix": "KP1",
+    "Entity": "Navassa Island",
+    "Continent": "NA",
+    "ITU": "11",
+    "CQ": "08",
+    "Lat": 18.408351,
+    "Lon": -75.0144368
+  },
+  {
+    "Prefix": "KP2",
+    "Entity": "Virgin Islands",
+    "Continent": "NA",
+    "ITU": "11",
+    "CQ": "08",
+    "Lat": 17.735390,
+    "Lon": -64.761433
+  },
+  {
+    "Prefix": "KP3,KP4",
+    "Entity": "Puerto Rico",
+    "Continent": "NA",
+    "ITU": "11",
+    "CQ": "08",
+    "Lat": 18.2247706,
+    "Lon": -66.4858295
+  },
+  {
+    "Prefix": "KP5",
+    "Entity": "Desecheo Island",
+    "Continent": "NA",
+    "ITU": "11",
+    "CQ": "08",
+    "Lat": 18.3838611,
+    "Lon": -67.4809844
+  },
+  {
+    "Prefix": "LA-LN",
+    "Entity": "Norway",
+    "Continent": "EU",
+    "ITU": "18",
+    "CQ": "14",
+    "Lat": 61.1529386,
+    "Lon": 8.7876653
+  },
+  {
+    "Prefix": "LO-LW",
+    "Entity": "Argentina",
+    "Continent": "SA",
+    "ITU": "14,16",
+    "CQ": "13",
+    "Lat": -34.9964963,
+    "Lon": -64.9672817
+  },
+  {
+    "Prefix": "LX",
+    "Entity": "Luxembourg",
+    "Continent": "EU",
+    "ITU": "27",
+    "CQ": "14",
+    "Lat": 49.8158683,
+    "Lon": 6.1296751
+  },
+  {
+    "Prefix": "LY",
+    "Entity": "Lithuania",
+    "Continent": "EU",
+    "ITU": "29",
+    "CQ": "15",
+    "Lat": 55.3500003,
+    "Lon": 23.7499997
+  },
+  {
+    "Prefix": "LZ",
+    "Entity": "Bulgaria",
+    "Continent": "EU",
+    "ITU": "28",
+    "CQ": "20",
+    "Lat": 42.6073975,
+    "Lon": 25.4856617
+  },
+  {
+    "Prefix": "OA-OC",
+    "Entity": "Peru",
+    "Continent": "SA",
+    "ITU": "12",
+    "CQ": "10",
+    "Lat": -6.8699697,
+    "Lon": -75.0458515
+  },
+  {
+    "Prefix": "OD",
+    "Entity": "Lebanon",
+    "Continent": "AS",
+    "ITU": "39",
+    "CQ": "20",
+    "Lat": 33.8750629,
+    "Lon": 35.843409
+  },
+  {
+    "Prefix": "OE",
+    "Entity": "Austria",
+    "Continent": "EU",
+    "ITU": "28",
+    "CQ": "15",
+    "Lat": 47.59397,
+    "Lon": 14.12456
+  },
+  {
+    "Prefix": "OF-OJ",
+    "Entity": "Finland",
+    "Continent": "EU",
+    "ITU": "18",
+    "CQ": "15",
+    "Lat": 63.2467777,
+    "Lon": 25.9209164
+  },
+  {
+    "Prefix": "OH0",
+    "Entity": "Aland Islands",
+    "Continent": "EU",
+    "ITU": "18",
+    "CQ": "15",
+    "Lat": 60.1515942,
+    "Lon": 20.0880306
+  },
+  {
+    "Prefix": "OJ0",
+    "Entity": "Market Reef",
+    "Continent": "EU",
+    "ITU": "18",
+    "CQ": "15",
+    "Lat": 60.300866,
+    "Lon": 19.132199
+  },
+  {
+    "Prefix": "OK-OL",
+    "Entity": "Czech Republic",
+    "Continent": "EU",
+    "ITU": "28",
+    "CQ": "15",
+    "Lat": 49.7439047,
+    "Lon": 15.3381061
+  },
+  {
+    "Prefix": "OM",
+    "Entity": "Slovak Republic",
+    "Continent": "EU",
+    "ITU": "28",
+    "CQ": "15",
+    "Lat": 48.7411522,
+    "Lon": 19.4528646
+  },
+  {
+    "Prefix": "ON-OT",
+    "Entity": "Belgium",
+    "Continent": "EU",
+    "ITU": "27",
+    "CQ": "14",
+    "Lat": 50.6402809,
+    "Lon": 4.6667145
+  },
+  {
+    "Prefix": "OU-OZ",
+    "Entity": "Denmark",
+    "Continent": "EU",
+    "ITU": "18",
+    "CQ": "14",
+    "Lat": 55.670249,
+    "Lon": 10.3333283
+  },
+  {
+    "Prefix": "OX",
+    "Entity": "Greenland",
+    "Continent": "NA",
+    "ITU": "05,75",
+    "CQ": "40",
+    "Lat": 71.8171799,
+    "Lon": -40.4342857
+  },
+  {
+    "Prefix": "OY",
+    "Entity": "Faroe Islands",
+    "Continent": "EU",
+    "ITU": "18",
+    "CQ": "14",
+    "Lat": 62.1988704,
+    "Lon": -6.8178451
+  },
+  {
+    "Prefix": "P2",
+    "Entity": "Papua New Guinea",
+    "Continent": "OC",
+    "ITU": "51",
+    "CQ": "28",
+    "Lat": -5.6816069,
+    "Lon": 144.2489081
+  },
+  {
+    "Prefix": "P4",
+    "Entity": "Aruba",
+    "Continent": "SA",
+    "ITU": "11",
+    "CQ": "09",
+    "Lat": 12.5013629,
+    "Lon": -69.9618475
+  },
+  {
+    "Prefix": "P5",
+    "Entity": "North Korea",
+    "Continent": "AS",
+    "ITU": "44",
+    "CQ": "44",
+    "Lat": 40.3736611,
+    "Lon": 127.0870417
+  },
+  {
+    "Prefix": "PA-PI",
+    "Entity": "Netherlands",
+    "Continent": "EU",
+    "ITU": "27",
+    "CQ": "14",
+    "Lat": 52.2434979,
+    "Lon": 5.6343227
+  },
+  {
+    "Prefix": "PJ2",
+    "Entity": "Curacao",
+    "Continent": "SA",
+    "ITU": "11",
+    "CQ": "09",
+    "Lat": 12.1176488,
+    "Lon": -68.9309263
+  },
+  {
+    "Prefix": "PJ4",
+    "Entity": "Bonaire",
+    "Continent": "SA",
+    "ITU": "11",
+    "CQ": "09",
+    "Lat": 12.167,
+    "Lon": -68.2876439
+  },
+  {
+    "Prefix": "PJ5,PJ6",
+    "Entity": "Saba & Sint Eustatius",
+    "Continent": "NA",
+    "ITU": "11",
+    "CQ": "08",
+    "Lat": 17.6264705,
+    "Lon": -63.2495896
+  },
+  {
+    "Prefix": "PJ7",
+    "Entity": "Sint Maarten",
+    "Continent": "NA",
+    "ITU": "11",
+    "CQ": "08",
+    "Lat": 18.0423736,
+    "Lon": -63.0549948
+  },
+  {
+    "Prefix": "PP-PY,ZV-ZZ",
+    "Entity": "Brazil",
+    "Continent": "SA",
+    "ITU": "(D)",
+    "CQ": "11",
+    "Lat": -10.3333333,
+    "Lon": -53.2
+  },
+  {
+    "Prefix": "PP0-PY0F",
+    "Entity": "Fernando de Noronha",
+    "Continent": "SA",
+    "ITU": "13",
+    "CQ": "11",
+    "Lat": -3.7,
+    "Lon": -34.3
+  },
+  {
+    "Prefix": "PP0-PY0S",
+    "Entity": "Saint Peter and Saint Paul Archipelago",
+    "Continent": "SA",
+    "ITU": "13",
+    "CQ": "11",
+    "Lat": 0.9167527,
+    "Lon": -29.3458025
+  },
+  {
+    "Prefix": "PP0-PY0T",
+    "Entity": "Trindade & Martim Vaz Islands",
+    "Continent": "SA",
+    "ITU": "15",
+    "CQ": "11",
+    "Lat": -20.50970,
+    "Lon": -29.32680
+  },
+  {
+    "Prefix": "PZ",
+    "Entity": "Suriname",
+    "Continent": "SA",
+    "ITU": "12",
+    "CQ": "09",
+    "Lat": 4.1413025,
+    "Lon": -56.0771187
+  },
+  {
+    "Prefix": "R1/F",
+    "Entity": "Franz Josef Land",
+    "Continent": "EU",
+    "ITU": "75",
+    "CQ": "40",
+    "Lat": 80.75254,
+    "Lon": 56.29395
+  },
+  {
+    "Prefix": "S0",
+    "Entity": "Western Sahara",
+    "Continent": "AF",
+    "ITU": "46",
+    "CQ": "33",
+    "Lat": 24.1797324,
+    "Lon": -13.7667848
+  },
+  {
+    "Prefix": "S2",
+    "Entity": "Bangladesh",
+    "Continent": "AS",
+    "ITU": "41",
+    "CQ": "22",
+    "Lat": 24.4769288,
+    "Lon": 90.2934413
+  },
+  {
+    "Prefix": "S5",
+    "Entity": "Slovenia",
+    "Continent": "EU",
+    "ITU": "28",
+    "CQ": "15",
+    "Lat": 46.1199444,
+    "Lon": 14.8153333
+  },
+  {
+    "Prefix": "S7",
+    "Entity": "Seychelles",
+    "Continent": "AF",
+    "ITU": "53",
+    "CQ": "39",
+    "Lat": -4.6574977,
+    "Lon": 55.4540146
+  },
+  {
+    "Prefix": "S9",
+    "Entity": "Sao Tome & Principe",
+    "Continent": "AF",
+    "ITU": "47",
+    "CQ": "36",
+    "Lat": 0.3264119,
+    "Lon": 6.7300945
+  },
+  {
+    "Prefix": "SA-SM,7S,8S",
+    "Entity": "Sweden",
+    "Continent": "EU",
+    "ITU": "18",
+    "CQ": "14",
+    "Lat": 59.6749712,
+    "Lon": 14.5208584
+  },
+  {
+    "Prefix": "SN-SR",
+    "Entity": "Poland",
+    "Continent": "EU",
+    "ITU": "28",
+    "CQ": "15",
+    "Lat": 52.215933,
+    "Lon": 19.134422
+  },
+  {
+    "Prefix": "ST",
+    "Entity": "Sudan",
+    "Continent": "AF",
+    "ITU": "47,48",
+    "CQ": "34",
+    "Lat": 14.5844444,
+    "Lon": 29.4917691
+  },
+  {
+    "Prefix": "SU",
+    "Entity": "Egypt",
+    "Continent": "AF",
+    "ITU": "38",
+    "CQ": "34",
+    "Lat": 26.2540493,
+    "Lon": 29.2675469
+  },
+  {
+    "Prefix": "SV-SZ,J4",
+    "Entity": "Greece",
+    "Continent": "EU",
+    "ITU": "28",
+    "CQ": "20",
+    "Lat": 38.9953683,
+    "Lon": 21.9877132
+  },
+  {
+    "Prefix": "SV/A",
+    "Entity": "Mount Athos",
+    "Continent": "EU",
+    "ITU": "28",
+    "CQ": "20",
+    "Lat": 40.158460,
+    "Lon": 24.328377
+  },
+  {
+    "Prefix": "SV5,J45",
+    "Entity": "Dodecanese",
+    "Continent": "EU",
+    "ITU": "28",
+    "CQ": "20",
+    "Lat": 36.214754,
+    "Lon": 27.965147
+  },
+  {
+    "Prefix": "SV9,J49",
+    "Entity": "Crete",
+    "Continent": "EU",
+    "ITU": "28",
+    "CQ": "20",
+    "Lat": 35.3084952,
+    "Lon": 24.4633423
+  },
+  {
+    "Prefix": "T2",
+    "Entity": "Tuvalu",
+    "Continent": "OC",
+    "ITU": "65",
+    "CQ": "31",
+    "Lat": -8.6405212,
+    "Lon": 179.1582918
+  },
+  {
+    "Prefix": "T30",
+    "Entity": "Western Kiribati (Gilbert Islands)",
+    "Continent": "OC",
+    "ITU": "65",
+    "CQ": "31",
+    "Lat": -0.35287,
+    "Lon": 173.67188
+  },
+  {
+    "Prefix": "T31",
+    "Entity": "Central Kiribati (Phoenix Islands)",
+    "Continent": "OC",
+    "ITU": "62",
+    "CQ": "31",
+    "Lat": -3.82228,
+    "Lon": -172.51831
+  },
+  {
+    "Prefix": "T32",
+    "Entity": "Eastern Kiribati (Line Islands)",
+    "Continent": "OC",
+    "ITU": "61,63",
+    "CQ": "31",
+    "Lat": -1.58964,
+    "Lon": -156.97266
+  },
+  {
+    "Prefix": "T33",
+    "Entity": "Banaba Island (Ocean Island)",
+    "Continent": "OC",
+    "ITU": "65",
+    "CQ": "31",
+    "Lat": -0.85666,
+    "Lon": 169.53518
+  },
+  {
+    "Prefix": "T5,6O",
+    "Entity": "Somalia",
+    "Continent": "AF",
+    "ITU": "48",
+    "CQ": "37",
+    "Lat": 8.3676771,
+    "Lon": 49.083416
+  },
+  {
+    "Prefix": "T7",
+    "Entity": "San Marino",
+    "Continent": "EU",
+    "ITU": "28",
+    "CQ": "15",
+    "Lat": 43.9458623,
+    "Lon": 12.458306
+  },
+  {
+    "Prefix": "T8",
+    "Entity": "Palau",
+    "Continent": "OC",
+    "ITU": "64",
+    "CQ": "27",
+    "Lat": 7.34152,
+    "Lon": 134.47763
+  },
+  {
+    "Prefix": "TA-TC",
+    "Entity": "Turkey",
+    "Continent": "EU,AS",
+    "ITU": "39",
+    "CQ": "20",
+    "Lat": 39.294076,
+    "Lon": 35.2316631
+  },
+  {
+    "Prefix": "TF",
+    "Entity": "Iceland",
+    "Continent": "EU",
+    "ITU": "17",
+    "CQ": "40",
+    "Lat": 64.9841821,
+    "Lon": -18.1059013
+  },
+  {
+    "Prefix": "TG,TD",
+    "Entity": "Guatemala",
+    "Continent": "NA",
+    "ITU": "12",
+    "CQ": "07",
+    "Lat": 15.5855545,
+    "Lon": -90.345759
+  },
+  {
+    "Prefix": "TI,TE",
+    "Entity": "Costa Rica",
+    "Continent": "NA",
+    "ITU": "11",
+    "CQ": "07",
+    "Lat": 10.2735633,
+    "Lon": -84.0739102
+  },
+  {
+    "Prefix": "TI9",
+    "Entity": "Cocos Island",
+    "Continent": "NA",
+    "ITU": "12",
+    "CQ": "07",
+    "Lat": 5.531904,
+    "Lon": -87.062038
+  },
+  {
+    "Prefix": "TJ",
+    "Entity": "Cameroon",
+    "Continent": "AF",
+    "ITU": "47",
+    "CQ": "36",
+    "Lat": 4.6125522,
+    "Lon": 13.1535811
+  },
+  {
+    "Prefix": "TK",
+    "Entity": "Corsica",
+    "Continent": "EU",
+    "ITU": "28",
+    "CQ": "15",
+    "Lat": 42.188098,
+    "Lon": 9.0683139
+  },
+  {
+    "Prefix": "TL",
+    "Entity": "Central Africa",
+    "Continent": "AF",
+    "ITU": "47",
+    "CQ": "36",
+    "Lat": 7.05295,
+    "Lon": 19.95117
+  },
+  {
+    "Prefix": "TN",
+    "Entity": "Congo",
+    "Continent": "AF",
+    "ITU": "52",
+    "CQ": "36",
+    "Lat": -0.7264327,
+    "Lon": 15.6419155
+  },
+  {
+    "Prefix": "TR",
+    "Entity": "Gabon",
+    "Continent": "AF",
+    "ITU": "52",
+    "CQ": "36",
+    "Lat": -0.8999695,
+    "Lon": 11.6899699
+  },
+  {
+    "Prefix": "TT",
+    "Entity": "Chad",
+    "Continent": "AF",
+    "ITU": "47",
+    "CQ": "36",
+    "Lat": 15.6134137,
+    "Lon": 19.0156172
+  },
+  {
+    "Prefix": "TU",
+    "Entity": "Cote d'Ivoire",
+    "Continent": "AF",
+    "ITU": "46",
+    "CQ": "35",
+    "Lat": 7.9897371,
+    "Lon": -5.5679458
+  },
+  {
+    "Prefix": "TY",
+    "Entity": "Benin",
+    "Continent": "AF",
+    "ITU": "46",
+    "CQ": "35",
+    "Lat": 9.5293472,
+    "Lon": 2.2584408
+  },
+  {
+    "Prefix": "TZ",
+    "Entity": "Mali",
+    "Continent": "AF",
+    "ITU": "46",
+    "CQ": "35",
+    "Lat": 16.3700359,
+    "Lon": -2.2900239
+  },
+  {
+    "Prefix": "UA-UI1-7,RA-RZ",
+    "Entity": "European Russia",
+    "Continent": "EU",
+    "ITU": "(E)",
+    "CQ": "16",
+    "Lat": 57.5,
+    "Lon": 41
+  },
+  {
+    "Prefix": "UA2,RA2",
+    "Entity": "Kaliningrad",
+    "Continent": "EU",
+    "ITU": "29",
+    "CQ": "15",
+    "Lat": 54.710128,
+    "Lon": 20.5105838
+  },
+  {
+    "Prefix": "UA-UI8-0,RA-RZ",
+    "Entity": "Asiatic Russia",
+    "Continent": "AS",
+    "ITU": "(F)",
+    "CQ": "(G)",
+    "Lat": 60,
+    "Lon": 100
+  },
+  {
+    "Prefix": "UJ-UM",
+    "Entity": "Uzbekistan",
+    "Continent": "AS",
+    "ITU": "30",
+    "CQ": "17",
+    "Lat": 41.32373,
+    "Lon": 63.9528098
+  },
+  {
+    "Prefix": "UN-UQ",
+    "Entity": "Kazakhstan",
+    "Continent": "AS",
+    "ITU": "29-31",
+    "CQ": "17",
+    "Lat": 48.1012954,
+    "Lon": 66.7780818
+  },
+  {
+    "Prefix": "UR-UZ,EM-EO",
+    "Entity": "Ukraine",
+    "Continent": "EU",
+    "ITU": "29",
+    "CQ": "16",
+    "Lat": 49.4871968,
+    "Lon": 31.2718321
+  },
+  {
+    "Prefix": "V2",
+    "Entity": "Antigua & Barbuda",
+    "Continent": "NA",
+    "ITU": "11",
+    "CQ": "08",
+    "Lat": 17.1184569,
+    "Lon": -61.8448509
+  },
+  {
+    "Prefix": "V3",
+    "Entity": "Belize",
+    "Continent": "NA",
+    "ITU": "11",
+    "CQ": "07",
+    "Lat": 17.1204943,
+    "Lon": -88.6859028
+  },
+  {
+    "Prefix": "V4",
+    "Entity": "Saint Kitts & Nevis",
+    "Continent": "NA",
+    "ITU": "11",
+    "CQ": "08",
+    "Lat": 17.1508813,
+    "Lon": -62.5852896
+  },
+  {
+    "Prefix": "V5",
+    "Entity": "Namibia",
+    "Continent": "AF",
+    "ITU": "57",
+    "CQ": "38",
+    "Lat": -23.2335499,
+    "Lon": 17.3231107
+  },
+  {
+    "Prefix": "V6",
+    "Entity": "Micronesia",
+    "Continent": "OC",
+    "ITU": "65",
+    "CQ": "27",
+    "Lat": 8.6062347,
+    "Lon": 151.8327443
+  },
+  {
+    "Prefix": "V7",
+    "Entity": "Marshall Islands",
+    "Continent": "OC",
+    "ITU": "65",
+    "CQ": "31",
+    "Lat": 8.9995549,
+    "Lon": 168.0002575
+  },
+  {
+    "Prefix": "V8",
+    "Entity": "Brunei",
+    "Continent": "OC",
+    "ITU": "54",
+    "CQ": "28",
+    "Lat": 4.4137155,
+    "Lon": 114.5653908
+  },
+  {
+    "Prefix": "VA-VG,VO,VY",
+    "Entity": "Canada",
+    "Continent": "NA",
+    "ITU": "(H)",
+    "CQ": "01-05",
+    "Lat": 61.0666922,
+    "Lon": -107.991707
+  },
+  {
+    "Prefix": "VK",
+    "Entity": "Australia",
+    "Continent": "OC",
+    "ITU": "(I)",
+    "CQ": "29,30",
+    "Lat": -24.7761086,
+    "Lon": 134.755
+  },
+  {
+    "Prefix": "VK0",
+    "Entity": "Heard Island",
+    "Continent": "AF",
+    "ITU": "68",
+    "CQ": "39",
+    "Lat": -53.0830706,
+    "Lon": 73.5325035
+  },
+  {
+    "Prefix": "VK7",
+    "Entity": "Macquarie Island",
+    "Continent": "OC",
+    "ITU": "60",
+    "CQ": "30",
+    "Lat": -54.6318143,
+    "Lon": 158.8617576
+  },
+  {
+    "Prefix": "VK9",
+    "Entity": "Cocos (Keeling) Islands",
+    "Continent": "OC",
+    "ITU": "54",
+    "CQ": "29",
+    "Lat": -12.0728315,
+    "Lon": 96.8409375
+  },
+  {
+    "Prefix": "VK9",
+    "Entity": "Lord Howe Island",
+    "Continent": "OC",
+    "ITU": "60",
+    "CQ": "30",
+    "Lat": -31.5540166,
+    "Lon": 159.0856256
+  },
+  {
+    "Prefix": "VK9",
+    "Entity": "Mellish Reef",
+    "Continent": "OC",
+    "ITU": "56",
+    "CQ": "30",
+    "Lat": -17.3923334,
+    "Lon": 155.8798633
+  },
+  {
+    "Prefix": "VK9",
+    "Entity": "Norfolk Island",
+    "Continent": "OC",
+    "ITU": "60",
+    "CQ": "32",
+    "Lat": -29.0328038,
+    "Lon": 167.9483137
+  },
+  {
+    "Prefix": "VK9",
+    "Entity": "Willis Island",
+    "Continent": "OC",
+    "ITU": "55",
+    "CQ": "30",
+    "Lat": -16.2872478,
+    "Lon": 149.9633459
+  },
+  {
+    "Prefix": "VK9",
+    "Entity": "Christmas Island",
+    "Continent": "OC",
+    "ITU": "54",
+    "CQ": "29",
+    "Lat": -10.4913148,
+    "Lon": 105.6171369
+  },
+  {
+    "Prefix": "VP2E",
+    "Entity": "Anguilla",
+    "Continent": "NA",
+    "ITU": "11",
+    "CQ": "08",
+    "Lat": 18.1954947,
+    "Lon": -63.0750234
+  },
+  {
+    "Prefix": "VP2M",
+    "Entity": "Montserrat",
+    "Continent": "NA",
+    "ITU": "11",
+    "CQ": "08",
+    "Lat": 16.7417041,
+    "Lon": -62.1916844
+  },
+  {
+    "Prefix": "VP2V",
+    "Entity": "British Virgin Islands",
+    "Continent": "NA",
+    "ITU": "11",
+    "CQ": "08",
+    "Lat": 18.4024395,
+    "Lon": -64.5661642
+  },
+  {
+    "Prefix": "VP5",
+    "Entity": "Turks & Caicos Islands",
+    "Continent": "NA",
+    "ITU": "11",
+    "CQ": "08",
+    "Lat": 21.721746,
+    "Lon": -71.5527809
+  },
+  {
+    "Prefix": "VP6",
+    "Entity": "Pitcairn Island",
+    "Continent": "OC",
+    "ITU": "63",
+    "CQ": "32",
+    "Lat": -25.0696378,
+    "Lon": -130.1060142
+  },
+  {
+    "Prefix": "VP6",
+    "Entity": "Ducie Island",
+    "Continent": "OC",
+    "ITU": "63",
+    "CQ": "32",
+    "Lat": -24.6824296,
+    "Lon": -124.7854872
+  },
+  {
+    "Prefix": "VP8",
+    "Entity": "Falkland Islands",
+    "Continent": "SA",
+    "ITU": "16",
+    "CQ": "13",
+    "Lat": -51.9492937,
+    "Lon": -59.5383657
+  },
+  {
+    "Prefix": "VP8,LU",
+    "Entity": "South Georgia Islands",
+    "Continent": "SA",
+    "ITU": "73",
+    "CQ": "13",
+    "Lat": -54.433932,
+    "Lon": -36.4946519
+  },
+  {
+    "Prefix": "VP8,LU",
+    "Entity": "South Orkney Islands",
+    "Continent": "SA",
+    "ITU": "73",
+    "CQ": "13",
+    "Lat": -60.62004,
+    "Lon": -45.55481
+  },
+  {
+    "Prefix": "VP8,LU",
+    "Entity": "South Sandwich Islands",
+    "Continent": "SA",
+    "ITU": "73",
+    "CQ": "13",
+    "Lat": -59.4400434,
+    "Lon": -27.237746
+  },
+  {
+    "Prefix": "VP8,LU,CE9,HF0,4K1",
+    "Entity": "South Shetland Islands",
+    "Continent": "SA",
+    "ITU": "73",
+    "CQ": "13",
+    "Lat": -62.6079191,
+    "Lon": -60.65962
+  },
+  {
+    "Prefix": "VP9",
+    "Entity": "Bermuda",
+    "Continent": "NA",
+    "ITU": "11",
+    "CQ": "05",
+    "Lat": 32.3040273,
+    "Lon": -64.7563086
+  },
+  {
+    "Prefix": "VQ9",
+    "Entity": "Chagos Islands",
+    "Continent": "AF",
+    "ITU": "41",
+    "CQ": "39",
+    "Lat": -5.3497093,
+    "Lon": 71.8606423
+  },
+  {
+    "Prefix": "VR",
+    "Entity": "Hong Kong",
+    "Continent": "AS",
+    "ITU": "44",
+    "CQ": "24",
+    "Lat": 22.350627,
+    "Lon": 114.1849161
+  },
+  {
+    "Prefix": "VU",
+    "Entity": "India",
+    "Continent": "AS",
+    "ITU": "41",
+    "CQ": "22",
+    "Lat": 22.3511148,
+    "Lon": 78.6677428
+  },
+  {
+    "Prefix": "VU4",
+    "Entity": "Andaman & Nicobar Islands",
+    "Continent": "AS",
+    "ITU": "49",
+    "CQ": "26",
+    "Lat": 10.0,
+    "Lon": 92.4
+  },
+  {
+    "Prefix": "VU7",
+    "Entity": "Lakshadweep Islands",
+    "Continent": "AS",
+    "ITU": "41",
+    "CQ": "22",
+    "Lat": 11.1616679,
+    "Lon": 72.0445004
+  },
+  {
+    "Prefix": "XA-XI",
+    "Entity": "Mexico",
+    "Continent": "NA",
+    "ITU": "10",
+    "CQ": "06",
+    "Lat": 23.6585116,
+    "Lon": -102.0077097
+  },
+  {
+    "Prefix": "XA4-XI4",
+    "Entity": "Revillagigedo Islands",
+    "Continent": "NA",
+    "ITU": "10",
+    "CQ": "06",
+    "Lat": 19.25930,
+    "Lon": -112.62085
+  },
+  {
+    "Prefix": "XT",
+    "Entity": "Burkina Faso",
+    "Continent": "AF",
+    "ITU": "46",
+    "CQ": "35",
+    "Lat": 12.0753083,
+    "Lon": -1.6880314
+  },
+  {
+    "Prefix": "XU",
+    "Entity": "Cambodia",
+    "Continent": "AS",
+    "ITU": "49",
+    "CQ": "26",
+    "Lat": 12.5433216,
+    "Lon": 104.8144914
+  },
+  {
+    "Prefix": "XW",
+    "Entity": "Laos",
+    "Continent": "AS",
+    "ITU": "49",
+    "CQ": "26",
+    "Lat": 20.0171109,
+    "Lon": 103.378253
+  },
+  {
+    "Prefix": "XX9",
+    "Entity": "Macao",
+    "Continent": "AS",
+    "ITU": "44",
+    "CQ": "24",
+    "Lat": 22.1757605,
+    "Lon": 113.5514142
+  },
+  {
+    "Prefix": "XY,XZ",
+    "Entity": "Myanmar",
+    "Continent": "AS",
+    "ITU": "49",
+    "CQ": "26",
+    "Lat": 17.1750495,
+    "Lon": 95.9999652
+  },
+  {
+    "Prefix": "YA,T6",
+    "Entity": "Afghanistan",
+    "Continent": "AS",
+    "ITU": "40",
+    "CQ": "21",
+    "Lat": 33.7680065,
+    "Lon": 66.2385139
+  },
+  {
+    "Prefix": "YB-YH",
+    "Entity": "Indonesia",
+    "Continent": "OC",
+    "ITU": "51,54",
+    "CQ": "28",
+    "Lat": -2.4833826,
+    "Lon": 117.8902853
+  },
+  {
+    "Prefix": "YI",
+    "Entity": "Iraq",
+    "Continent": "AS",
+    "ITU": "39",
+    "CQ": "21",
+    "Lat": 33.0955793,
+    "Lon": 44.1749775
+  },
+  {
+    "Prefix": "YJ",
+    "Entity": "Vanuatu",
+    "Continent": "OC",
+    "ITU": "56",
+    "CQ": "32",
+    "Lat": -16.5255069,
+    "Lon": 168.1069154
+  },
+  {
+    "Prefix": "YK",
+    "Entity": "Syria",
+    "Continent": "AS",
+    "ITU": "39",
+    "CQ": "20",
+    "Lat": 34.6401861,
+    "Lon": 39.0494106
+  },
+  {
+    "Prefix": "YL",
+    "Entity": "Latvia",
+    "Continent": "EU",
+    "ITU": "29",
+    "CQ": "15",
+    "Lat": 56.8406494,
+    "Lon": 24.7537645
+  },
+  {
+    "Prefix": "YN,H6-7,HT",
+    "Entity": "Nicaragua",
+    "Continent": "NA",
+    "ITU": "11",
+    "CQ": "07",
+    "Lat": 12.3506436,
+    "Lon": -85.7841006
+  },
+  {
+    "Prefix": "YO-YR",
+    "Entity": "Romania",
+    "Continent": "EU",
+    "ITU": "28",
+    "CQ": "20",
+    "Lat": 45.9852129,
+    "Lon": 24.6859225
+  },
+  {
+    "Prefix": "YS,HU",
+    "Entity": "El Salvador",
+    "Continent": "NA",
+    "ITU": "11",
+    "CQ": "07",
+    "Lat": 13.8000382,
+    "Lon": -88.9140683
+  },
+  {
+    "Prefix": "YT,YU",
+    "Entity": "Serbia",
+    "Continent": "EU",
+    "ITU": "28",
+    "CQ": "15",
+    "Lat": 44.0243229,
+    "Lon": 21.0765743
+  },
+  {
+    "Prefix": "YV-YY,4M",
+    "Entity": "Venezuela",
+    "Continent": "SA",
+    "ITU": "12",
+    "CQ": "09",
+    "Lat": 8.0018709,
+    "Lon": -66.1109318
+  },
+  {
+    "Prefix": "YV0",
+    "Entity": "Aves Island",
+    "Continent": "NA",
+    "ITU": "11",
+    "CQ": "08",
+    "Lat": 11.98030,
+    "Lon": -67.66836
+  },
+  {
+    "Prefix": "Z2",
+    "Entity": "Zimbabwe",
+    "Continent": "AF",
+    "ITU": "53",
+    "CQ": "38",
+    "Lat": -18.4554963,
+    "Lon": 29.7468414
+  },
+  {
+    "Prefix": "Z3",
+    "Entity": "North Macedonia",
+    "Continent": "EU",
+    "ITU": "28",
+    "CQ": "15",
+    "Lat": 41.6171214,
+    "Lon": 21.7168387
+  },
+  {
+    "Prefix": "Z6",
+    "Entity": "Kosovo",
+    "Continent": "EU",
+    "ITU": "28",
+    "CQ": "15",
+    "Lat": 42.5869578,
+    "Lon": 20.9021231
+  },
+  {
+    "Prefix": "Z8",
+    "Entity": "South Sudan",
+    "Continent": "AF",
+    "ITU": "48",
+    "CQ": "34",
+    "Lat": 7.8699431,
+    "Lon": 29.6667897
+  },
+  {
+    "Prefix": "ZA",
+    "Entity": "Albania",
+    "Continent": "EU",
+    "ITU": "28",
+    "CQ": "15",
+    "Lat": 41.000028,
+    "Lon": 19.9999619
+  },
+  {
+    "Prefix": "ZB2",
+    "Entity": "Gibraltar",
+    "Continent": "EU",
+    "ITU": "37",
+    "CQ": "14",
+    "Lat": 36.1285933,
+    "Lon": -5.3474761
+  },
+  {
+    "Prefix": "ZC4",
+    "Entity": "UK Sovereign Base Areas on Cyprus",
+    "Continent": "AS",
+    "ITU": "39",
+    "CQ": "20",
+    "Lat": 34.615017,
+    "Lon": 32.965516
+  },
+  {
+    "Prefix": "ZD7",
+    "Entity": "Saint Helena Island",
+    "Continent": "AF",
+    "ITU": "66",
+    "CQ": "36",
+    "Lat": -15.9690718,
+    "Lon": -5.71295
+  },
+  {
+    "Prefix": "ZD8",
+    "Entity": "Ascension Island",
+    "Continent": "AF",
+    "ITU": "66",
+    "CQ": "36",
+    "Lat": -7.942,
+    "Lon": -14.3578947
+  },
+  {
+    "Prefix": "ZD9",
+    "Entity": "Tristan da Cunha & Gough Island",
+    "Continent": "AF",
+    "ITU": "66",
+    "CQ": "38",
+    "Lat": -38.88420,
+    "Lon": -11.16211
+  },
+  {
+    "Prefix": "ZF",
+    "Entity": "Cayman Islands",
+    "Continent": "NA",
+    "ITU": "11",
+    "CQ": "08",
+    "Lat": 19.49210,
+    "Lon": -80.56549
+  },
+  {
+    "Prefix": "ZK3",
+    "Entity": "Tokelau Islands",
+    "Continent": "OC",
+    "ITU": "62",
+    "CQ": "31",
+    "Lat": -9.1676396,
+    "Lon": -171.819687
+  },
+  {
+    "Prefix": "ZK-ZM",
+    "Entity": "New Zealand",
+    "Continent": "OC",
+    "ITU": "60",
+    "CQ": "32",
+    "Lat": -41.5000831,
+    "Lon": 172.8344077
+  },
+  {
+    "Prefix": "ZL7",
+    "Entity": "Chatham Islands",
+    "Continent": "OC",
+    "ITU": "60",
+    "CQ": "32",
+    "Lat": -43.917534,
+    "Lon": -176.18734
+  },
+  {
+    "Prefix": "ZL8",
+    "Entity": "Kermadec Islands",
+    "Continent": "OC",
+    "ITU": "60",
+    "CQ": "32",
+    "Lat": -30.31211,
+    "Lon": -178.46191
+  },
+  {
+    "Prefix": "ZL9",
+    "Entity": "New Zealand Subantarctic Islands",
+    "Continent": "OC",
+    "ITU": "60",
+    "CQ": "60",
+    "Lat": -51.66726,
+    "Lon": -192.35962
+  },
+  {
+    "Prefix": "ZP",
+    "Entity": "Paraguay",
+    "Continent": "SA",
+    "ITU": "14",
+    "CQ": "11",
+    "Lat": -23.3165935,
+    "Lon": -58.1693445
+  },
+  {
+    "Prefix": "ZR-ZU",
+    "Entity": "South Africa",
+    "Continent": "AF",
+    "ITU": "57",
+    "CQ": "38",
+    "Lat": -28.8166236,
+    "Lon": 24.991639
+  },
+  {
+    "Prefix": "ZS8",
+    "Entity": "Prince Edward Islands",
+    "Continent": "AF",
+    "ITU": "57",
+    "CQ": "38",
+    "Lat": -46.7939961,
+    "Lon": 37.7853502
+  }
+]
