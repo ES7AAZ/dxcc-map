@@ -1,4 +1,4 @@
-# DXCC Interactive World Map v2.7.5.0
+# DXCC Interactive World Map v2.7.5.1
 
 An advanced, interactive world map designed specifically for amateur radio enthusiasts (HAM radio). This tool provides real-time tracking, geophysical data, and DXCC entity visualization.
 
