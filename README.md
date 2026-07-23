@@ -1,4 +1,4 @@
-# DXCC Interactive World Map v3.2.0
+# DXCC Interactive World Map v3.4.0
 
 An advanced, interactive world map designed specifically for amateur radio enthusiasts (HAM radio). This tool provides real-time tracking, geophysical data, satellite orbits, and DXCC entity visualization powered by the robust `dxccmap-v3` engine.
 
@@ -47,6 +47,9 @@ Developed for the amateur radio community. If you find this tool useful, feel fr
 ---
 
 ## Changelog
+
+### v3.4.0
+* **Code Refactoring:** CSS and JS have been completely separated from the HTML files, alongside various additional minor fixes.
 
 ### v3.2.0
 * **Manual Home QTH:** Added an input field for a 6-character Maidenhead locator (with data validation). This allows manual placement of your home location on the map, overriding geolocation. The configured location is automatically saved in the browser's local storage.
