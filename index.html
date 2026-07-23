@@ -6,7 +6,7 @@
     <meta name="google-site-verification" content="-TR0p1-UaADr8K6fbsRoNJcYLnTq26QEVHS746ZX9eo">
     <meta name="keywords" content="DXCC interaktiivne maailmakaart, amatöörraadio maailmakaart, DXCC interactive world map, amateur radio world map, ISS live tracker, mapa mundial interactivo de DXCC, mapa mundial de radioaficionados">
     <meta name="author" content="Riho Bergmann (ES7AAZ), Base map: Martin Kratoska (OK1RR)">
-    <title>DXCC map v3.2.0</title>
+    <title>DXCC map v3.4.0</title>
     <link rel="icon" href="earth.ico" sizes="32x32" type="image/x-icon">
     <link rel="icon" href="earth-192x192.png" sizes="192x192" type="image/png">
     <link rel="apple-touch-icon" href="earth-180x180.png">
@@ -15,7 +15,7 @@
     <script src="d3-geo.min.js" defer></script>
     <script src="sun-sync.min.js" defer></script>
     <script src="satellite.min.js" defer></script>
-    </head>
+</head>
 <body>
     <div id="errorBox"></div>
     <div id="loader"></div>
@@ -23,16 +23,16 @@
         <h3>IBP Beacons</h3>
         <ul id="beacon-ul"></ul>
     </div>
-    <a class="dxcc-link" onclick="toggleDXCCDropdown()">DXCC</a>
+    <a class="dxcc-link">DXCC</a>
     <div id="dxcc-dropdown-content" class="dxcc-dropdown-content"></div>
-    <div class="fullscreen-icon" onclick="toggleFullscreen()">&#x26F6;</div>
+    <div class="fullscreen-icon">&#x26F6;</div>
     <div id="coords"></div>
     <div id="container"></div>
     <input type="text" class="search-input" placeholder="Search...">
     <div class="ibp-tooltip" id="ibp-tooltip"></div>
     <footer>
         <div class="clock-wrapper">
-            <iframe class="clock-iframe" src="https://free.timeanddate.com/clock/iaijcqvg/fn17/fce6e6e6/tc242424/pc242424/pl5/pr5/pt0/pb0/th1/ta1" width="112"></iframe>   
+            <iframe class="clock-iframe" src="https://free.timeanddate.com/clock/iaijcqvg/fn17/fce6e6e6/tc242424/pc242424/pl5/pr5/pt0/pb0/th1/ta1"></iframe>   
             <div class="clock-overlay"></div>
         </div> 
         <div class="checkbox-container">
@@ -84,17 +84,17 @@
             <input type="text" id="user-locator-input" class="user-locator-input" maxlength="6" placeholder="LOC...">
             <div id="ibp-wrapper">
                 <div id="ibp-menu">
-                    <div class="ibp-option" onclick="BeaconApp.setFilter('OFF')" data-value="OFF">OFF</div>
-                    <div class="ibp-option" onclick="BeaconApp.setFilter('0')">14.100 MHz (20m)</div>
-                    <div class="ibp-option" onclick="BeaconApp.setFilter('1')">18.110 MHz (17m)</div>
-                    <div class="ibp-option" onclick="BeaconApp.setFilter('2')">21.150 MHz (15m)</div>
-                    <div class="ibp-option" onclick="BeaconApp.setFilter('3')">24.930 MHz (12m)</div>
-                    <div class="ibp-option" onclick="BeaconApp.setFilter('4')">28.200 MHz (10m)</div>
+                    <div class="ibp-option" data-filter="OFF" data-value="OFF">OFF</div>
+                    <div class="ibp-option" data-filter="0">14.100 MHz (20m)</div>
+                    <div class="ibp-option" data-filter="1">18.110 MHz (17m)</div>
+                    <div class="ibp-option" data-filter="2">21.150 MHz (15m)</div>
+                    <div class="ibp-option" data-filter="3">24.930 MHz (12m)</div>
+                    <div class="ibp-option" data-filter="4">28.200 MHz (10m)</div>
                 </div>
-                <div class="ibp-btn" onclick="BeaconApp.toggleMenu()">IBP</div>
+                <div class="ibp-btn">IBP</div>
             </div>
             <div class="sat-container">
-                <a class="sat-link" onclick="toggleSatData()">SAT</a>
+                <a class="sat-link">SAT</a>
             </div>
             <div id="satellite-list"></div>
             <a id="wwv-data-link">WWV
