@@ -49,7 +49,7 @@ Developed for the amateur radio community. If you find this tool useful, feel fr
 ## Changelog
 
 ### v3.4.0
-* **Code Refactoring:** CSS and JS have been completely separated from the HTML files, alongside various additional minor fixes.
+* **Code Refactoring:** CSS and JS have been completely separated from the HTML file, alongside various additional minor fixes.
 
 ### v3.2.0
 * **Manual Home QTH:** Added an input field for a 6-character Maidenhead locator (with data validation). This allows manual placement of your home location on the map, overriding geolocation. The configured location is automatically saved in the browser's local storage.
