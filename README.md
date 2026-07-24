@@ -1,4 +1,4 @@
-# DXCC Interactive World Map v3.4.0
+# DXCC Interactive World Map v4.0.0
 
 An advanced, interactive world map designed specifically for amateur radio enthusiasts (HAM radio). This tool provides real-time tracking, geophysical data, satellite orbits, and DXCC entity visualization powered by the robust `dxccmap-v3` engine.
 
@@ -47,6 +47,9 @@ Developed for the amateur radio community. If you find this tool useful, feel fr
 ---
 
 ## Changelog
+
+### v4.0.0
+* **Code Refactoring:** The v4 series utilizes a completely refactored dxccmap-v4 engine.
 
 ### v3.4.0
 * **Code Refactoring:** CSS and JS have been completely separated from the HTML file, alongside various additional minor fixes.
