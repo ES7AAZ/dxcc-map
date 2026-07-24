@@ -48,7 +48,7 @@ Developed for the amateur radio community. If you find this tool useful, feel fr
 
 ## Changelog
 
-### v4.2.0
+### v4.1.0
 * **Minor Fixes:** Various CSS and JS minor fixes.
 
 ### v4.0.0
